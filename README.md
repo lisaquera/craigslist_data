@@ -27,7 +27,7 @@ However, when I changed perspective from the seller to the buyer, I was able to 
 Libraries required: Numpy, Pandas, Matplotlib, Scikit-learn
 
 Files:
-* vehicles.csv contains the dataset of Craigslist used vehicles for Nov & Dec 2019
+* vehicles.csv contains the dataset of Craigslist used vehicles (NOTE: the compressed data file was still too large to be accepted by Github. It can be downloaded from kaggle at https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
 * Quera_Craiglist_Vehicle_Analysis.ipynb provides the analytical code and technical discussion
 * Quera_3_Things.pdf provides a static rendering of the blogpost
 
